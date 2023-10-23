@@ -314,3 +314,9 @@ pip-selfcheck.json
 staticfiles
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,macos,linux,windows
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/things-2-kourosh-zarei.iml
+.idea/vcs.xml
+.idea/workspace.xml
